@@ -1,0 +1,27 @@
+{
+  "name": "rpg",
+  "version": "1.0.0",
+  "description": "Idle RPG Prototype",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aegis41/rpg.git"
+  },
+  "keywords": [
+    "idle",
+    "rpg"
+  ],
+  "author": "Anthony Gaff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aegis41/rpg/issues"
+  },
+  "homepage": "https://github.com/aegis41/rpg#readme"
+}
